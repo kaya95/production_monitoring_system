@@ -1,3 +1,10 @@
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 140530" src="https://github.com/user-attachments/assets/779d2a61-7bde-4a42-9a1b-7f3979b4daee" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 140547" src="https://github.com/user-attachments/assets/d0db5570-20b4-455f-b1ef-369594c76e4b" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 140603" src="https://github.com/user-attachments/assets/8ae93373-e4d7-4af1-aaa7-27ea3804744f" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 140722" src="https://github.com/user-attachments/assets/c9af90f3-0cca-4b19-bea7-de1a917163fb" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 152307" src="https://github.com/user-attachments/assets/ca902544-9823-4467-b982-c465aae59067" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 152320" src="https://github.com/user-attachments/assets/66b97834-7712-4504-b678-55807b212e6c" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-21 152342" src="https://github.com/user-attachments/assets/93d19946-4968-4e85-b895-1f738de49144" />
 2️⃣ README.md
 # Production Monitoring System
 
@@ -101,5 +108,6 @@ Web dashboard: Flask app to view live monitoring results
 📄 Requirements
 
 Python 3.10+
+
 
 requests, flask
